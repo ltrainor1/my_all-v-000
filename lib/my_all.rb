@@ -13,7 +13,7 @@ else
 end 
 end
 
-my_all?({1,2,3}) do |x|
+my_all?([1,2,3]) do |x|
   x < 2 
 end 
   
