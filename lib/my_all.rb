@@ -14,4 +14,6 @@ end
 end
 
 my_all?(collection) do |x|
+  x < 2 
+end 
   
